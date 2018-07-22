@@ -73,8 +73,8 @@ categories and one or more items in _each_:
     </ul>
   </li>
   <li>Snacks
-    <li>Nacho Cheese French Fries</li>
-    <li>Cheese and crackers</li>
+  <li>Nacho Cheese French Fries</li>
+  <li>Cheese and crackers</li>
   </li>
   <li>Soups
     <ul>
